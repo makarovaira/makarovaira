@@ -1,6 +1,6 @@
 ## About me
 ### Education:
-- 👨‍🎓 I am in my third year of software engineering **<a href='https://kpfu.ru/itis' target="_blank">ITIS Kazan Federal University </a>** 
+- 👨‍🎓 I am now in my third year of software engineering **<a href='https://kpfu.ru/itis' target="_blank">ITIS Kazan Federal University </a>** 
 - 💻 I study at **<a href="https://21-school.ru/">school 21</a>**
 
 ## 🛠 Tech Skills
