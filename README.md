@@ -4,11 +4,11 @@
 - 💻 I study at **<a href="https://21-school.ru/">school 21</a>**
 
 ## 🛠 Tech Skills
-## Languages:
-![Flutter](https://img.shields.io/badge/Java-8A2BE2)
-![Flutter](https://img.shields.io/badge/C-C71585)
-![Flutter](https://img.shields.io/badge/C++-00ffff.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-## 🗄️ Databases:
+### Languages:
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+
+### 🗄️ Databases:
 ![Flutter](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### About my projects in C
+
