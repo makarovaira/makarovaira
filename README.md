@@ -1,9 +1,9 @@
-## About me:
+## About me
+### Education:
+- 👨‍🎓 I am in my third year of software engineering **<a href='https://kpfu.ru/itis' target="_blank">ITIS Kazan Federal University </a>** 
+- 💻 I study at **<a href="https://21-school.ru/">school 21</a>**
 
-- 📚 **<a href='https://kpfu.ru/itis' target="_blank">ITIS Kazan Federal University </a>**
-- 👨‍🎓 **<a href="https://21-school.ru/">school 21</a>**
-
-## 🛠 Tech Skills:
+## 🛠 Tech Skills
 ## Languages:
 ![Flutter](https://img.shields.io/badge/Java-8A2BE2)
 ![Flutter](https://img.shields.io/badge/C-C71585)
