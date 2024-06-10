@@ -11,6 +11,8 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 
+<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="bash" width="40" height="40"/> </a>
+
 ### About my projects in Java
 - **<a href="https://github.com/makarovaira/BuysellWebsite">BuysellWebsite</a>**
 - **<a href="https://github.com/makarovaira/Java_automation_testing">Java_automation_testing</a>**
