@@ -14,4 +14,5 @@
 
 ### About my projects in C
 - **<a href="https://github.com/makarovaira/SimpleBashUtils">SimpleBashUtils</a>**
-- **<a href="https://github.com/makarovaira/C_Math">C_Math</a>** 
+- **<a href="https://github.com/makarovaira/C_Math">C_Math</a>**
+- **<a href="https://github.com/makarovaira/C_SmartCalc">C_SmartCalc</a>** 
