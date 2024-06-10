@@ -12,6 +12,7 @@
 
 ### About my projects in Java
 - **<a href="https://github.com/makarovaira/BuysellWebsite">BuysellWebsite</a>**
+- **<a href="https://github.com/makarovaira/Java_automation_testing">Java_automation_testing</a>**
 ### About my projects in C
 - **<a href="https://github.com/makarovaira/SimpleBashUtils">SimpleBashUtils</a>**
 - **<a href="https://github.com/makarovaira/C_Math">C_Math</a>**
