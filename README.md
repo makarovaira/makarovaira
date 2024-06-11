@@ -2,6 +2,9 @@
 ### Education:
 - 👨‍🎓 I am now in my third year of software engineering **<a href='https://kpfu.ru/itis' target="_blank">ITIS Kazan Federal University </a>** 
 - 💻 I study at **<a href="https://21-school.ru/">school 21</a>**
+### Contacs:
+<a href='https://t.me/irina_m_23' target="_blank">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
+<a href="mailto:i9047691056@gmail.com" target="blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 ## 🛠 Tech Skills
 ### Languages and Tools:
